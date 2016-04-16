@@ -44,9 +44,14 @@ public class Calculate {
         return bill;
     }
 
+    /**
+     * 得到最终支付结果
+     * @param bill
+     * @return
+     */
     static public Bill getAmount(Bill bill) {
         bill = Calculate.setActualRate(bill);
-        bill.setActualAmount(basicMonthFee + everyMinuteFee*bill.getDiscountRate() + overdueFineRate*bill.getHistoryAmount());
+        bill.setActualAmount(basicMonthFee + bill.getMinute()*everyMinuteFee*(1-bill.getDiscountRate()) + overdueFineRate*bill.getHistoryAmount());
         return bill;
     }
 
