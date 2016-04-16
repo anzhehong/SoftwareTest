@@ -1,0 +1,99 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# Sensitive or high-churn files:
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
+
+# Mongo Explorer plugin:
+.idea/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+Naughty/.idea/libraries/Java_EE_6_Java_EE_6.xml
+Naughty/.idea/libraries/Maven__de_greenrobot_eventbus_2_4_1.xml
+Naughty/.idea/vcs.xml
+Naughty/src/main/java/com/Restriction/.idea/.name
+Naughty/src/main/java/com/Restriction/.idea/compiler.xml
+Naughty/src/main/java/com/Restriction/.idea/copyright/profiles_settings.xml
+Naughty/src/main/java/com/Restriction/.idea/encodings.xml
+Naughty/src/main/java/com/Restriction/.idea/libraries/Maven__junit_junit_4_8_1.xml
+Naughty/src/main/java/com/Restriction/.idea/misc.xml
+Naughty/src/main/java/com/Restriction/.idea/modules.xml
+Naughty/src/main/java/com/Restriction/.idea/scopes/scope_settings.xml
+Naughty/src/main/java/com/Restriction/.idea/uiDesigner.xml
+Naughty/src/main/java/com/Restriction/.idea/vcs.xml
+Naughty/src/main/java/com/Restriction/pom.xml
+Naughty/src/main/java/com/Restriction/src/main/java/FrequencyRestriction.java
+Naughty/src/main/java/com/Restriction/src/main/java/MaxNumOfMessage.java
+Naughty/src/main/java/com/Restriction/src/main/java/MessageRestriction.java
+Naughty/src/main/java/com/Restriction/src/main/java/MultiFrequencyRestriction.java
+Naughty/src/main/java/com/Restriction/src/main/java/MultiMaxNumOfMessage.java
+Naughty/src/main/java/com/Restriction/src/test/java/FrequencyRestrictionTest.java
+Naughty/src/main/java/com/Restriction/target/MANIFEST.MF
+Restriction/.idea/.name
+Restriction/.idea/compiler.xml
+Restriction/.idea/copyright/profiles_settings.xml
+Restriction/.idea/encodings.xml
+Restriction/.idea/libraries/Maven__junit_junit_4_8_1.xml
+Restriction/.idea/misc.xml
+Restriction/.idea/modules.xml
+Restriction/.idea/scopes/scope_settings.xml
+Restriction/.idea/uiDesigner.xml
+Restriction/.idea/vcs.xml
+Restriction/.idea/workspace.xml
+Restriction/Restriction.iml
+Restriction/pom.xml
+Restriction/src/main/java/FrequencyRestriction.java
+Restriction/src/main/java/MaxNumOfMessage.java
+Restriction/src/main/java/MessageRestriction.java
+Restriction/src/main/java/MultiFrequencyRestriction.java
+Restriction/src/main/java/MultiMaxNumOfMessage.java
+Restriction/src/test/java/FrequencyRestrictionTest.java
+Restriction/target/MANIFEST.MF
